@@ -1,9 +1,9 @@
 # Database and Benchmark for Script Identification (MDIW-13)
 
-Keywords
+Keywords:
 script identification, printed text, handwritten text
 
-Description
+Description:
 Script identification is a necessary step in some applications involving document analysis in a multi-script and multi-language environment. This paper provides a new database for benchmarking script identification algorithms, which contains both printed and handwritten documents collected from a wide variety of scripts, such as Arabic, Bengali (Bangla), Gujarati, Gurmukhi, Devanagari, Japanese, Kannada, Malayalam, Oriya, Roman, Tamil, Telugu, and Thai. The dataset consists of 1,135 documents scanned from local newspapers and handwritten letters and notes from different native writers. Further, these documents are segmented into lines and words, comprising a total of 13,979 and 86,655 lines and words, respectively, in the dataset. Easy-to-go benchmarks are proposed with handcrafted and deep learning methods. The benchmark includes results at the document, line, and word levels with printed and handwritten documents. Results of script identification independent of the document/line/word level and independent of the printed/handwritten letters are also given.
 
 The database can be freely downloaded for research purposes at:
